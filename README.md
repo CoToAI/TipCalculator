@@ -31,10 +31,12 @@ The program:
 Here’s what the program looks like when running in the terminal:
 
 ### 🖼️ Screenshot 1  
-![Sample Output 1](images/sample_output_1.png)
+![image](https://github.com/user-attachments/assets/a1076bb9-63b7-4e80-9b15-ff556f9584d7)
+
 
 ### 🖼️ Screenshot 2  
-![Sample Output 2](images/sample_output_2.png)
+![image](https://github.com/user-attachments/assets/5a4d087c-add2-4a4f-922d-6e409ffbb5ec)
+
 
 ---
 
